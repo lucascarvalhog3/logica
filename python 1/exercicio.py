@@ -11,3 +11,5 @@ for letra in nome:
         contador += 1
         print(f"O nome {nome} possui {contador} letras 'a'")
 
+        
+
